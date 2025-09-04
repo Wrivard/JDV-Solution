@@ -1,0 +1,12 @@
+{
+  "name": "jdv-solution",
+  "version": "1.0.0",
+  "description": "JDV Solution - Webflow site for client preview",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "keywords": ["webflow", "business", "consulting"],
+  "author": "JDV Solution",
+  "license": "MIT"
+}
